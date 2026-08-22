@@ -1,0 +1,13 @@
+//Mongo db keys
+connectionString = ""
+//node mailer keys
+SMTP_APP_PASSWORD = hxibueaifiezxckd
+SMTP_EMAIL = samishaikh12313@gmail.com
+
+//stripe keys
+STRIPE_SECRET_KEY = ""
+STRIPE_PUBLISHABLE_KEY = ""
+
+
+port = 5001
+JWT_SECRET = mydatabasesecret
